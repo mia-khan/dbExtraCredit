@@ -1,0 +1,34 @@
+{ 
+    "Plants": {
+        "plant_id": 1,
+        "name": "Rose",
+        "description": [
+            {
+                "plant_family": "Crassulaceae",
+                "date_added": "2023-06-24 02:57:43"
+            }   
+        ],
+        "care_requiremnts": [
+            {
+                "watering_frequecny": "Weekly",
+                "humidity_exposure": "low",
+                "temperature_range": "medium"
+            }
+        ],
+        "condition_id": 392,
+        "condition_date": "11/25/2023",
+        "condition_status": "good",
+        "user_id": 14,
+        "username": "dgeering0",
+        "password": "gU9$}o",
+        "email": "jmetterick0@utexas.edu",
+        "plant collection": [
+            {
+                "collection_id": 32, 
+                "collection_name": "Big Plants",
+                "date_added": "2023-06-24 02:57:43"
+                
+            }
+        ]
+    }
+}
